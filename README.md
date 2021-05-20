@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-      type 'a option = Some of 'a | None <br>
-      type ('a,'e) result = Ok of 'a | Error of 'e<br>
+      Chtholly Nota Seniorious <br>
+      All of here is Kutori properties <br>
+      Nopht Keh Desperatio <br>
+      Rhantol Ytri Historia <br>
+      Ithea Myse Valgulious <br>
+      Nephren Ruq Insania <br>
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
