@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hello.akiekano@gmail.com
 - 😄 Pronouns: :V
 - ⚡ Fun fact: actually i'm a weebs
+
+<p align="left"><strong><samp>「</samp></strong></p><p align="center">
+    <samp>
+      type 'a option = Some of 'a | None <br>
+      type ('a,'e) result = Ok of 'a | Error of 'e<br>
+    </samp>
+    <br>
+</p><p align="right"><strong><samp>」</samp></strong></p>
