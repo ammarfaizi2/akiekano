@@ -12,6 +12,10 @@
       Nephren Ruq Insania <br>
       Elq Hrqstn <br>
       Nygglatho <br>
+      ❄️❄️❄️❄️ <br>
+      ❄️❄️❄️ <br>
+      ❄️❄️ <br>
+      ❄️ <br>
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
