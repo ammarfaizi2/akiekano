@@ -4,7 +4,7 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
       All of here is Kutori properties <br>
-      🔴🔵🇯🇵 <br>
+      🇯🇵🔵🔴 <br>
       Chtholly Nota Seniorious <br>
       Nopht Keh Desperatio <br>
       Rhantolk Ytri Historia <br>
