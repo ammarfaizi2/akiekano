@@ -3,8 +3,9 @@
 
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-      Chtholly Nota Seniorious <br>
       All of here is Kutori properties <br>
+      🔴🔵🇯🇵 <br>
+      Chtholly Nota Seniorious <br>
       Nopht Keh Desperatio <br>
       Rhantolk Ytri Historia <br>
       Ithea Myse Valgulious <br>
