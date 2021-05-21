@@ -6,9 +6,11 @@
       Chtholly Nota Seniorious <br>
       All of here is Kutori properties <br>
       Nopht Keh Desperatio <br>
-      Rhantol Ytri Historia <br>
+      Rhantolk Ytri Historia <br>
       Ithea Myse Valgulious <br>
       Nephren Ruq Insania <br>
+      Elq Hrqstn <br>
+      Nygglatho <br>
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
