@@ -9,8 +9,6 @@
 ### About me
 Not a developer and of course without work experience, but with a great desire to learn.
 
-Don't forget to visit my Github Pages.
-
 [![Blog](https://img.shields.io/badge/akiekano.github.io-364f6b?style=for-the-badge)](https://akiekano.github.io/)
 
 ### Languages
