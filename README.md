@@ -14,16 +14,16 @@ Don't forget to visit my Github Pages.
 [![Blog](https://img.shields.io/badge/akiekano.github.io-364f6b?style=for-the-badge)](https://akiekano.github.io/)
 
 ### Languages
-[![HTML](https://img.shields.io/badge/HTML-f6416c?style=for-the-badge)](https://html.com/)
-[![CSS](https://img.shields.io/badge/CSS-46cdcf?style=for-the-badge)](http://www.css3.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ffde7d?style=for-the-badge)](http://www.ecmascript.org/)
+[![PYTHON](https://img.shields.io/badge/HTML-f6416c?style=for-the-badge)](#)
+[![C++](https://img.shields.io/badge/CSS-46cdcf?style=for-the-badge)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ffde7d?style=for-the-badge)](#)
 [![C](https://img.shields.io/badge/C-f9f7f7?style=for-the-badge)](#)
 
 ### Tools
 [![Linux](https://img.shields.io/badge/Linux-ffd460?style=for-the-badge)](https://gentoo.org/)
 [![Bash](https://img.shields.io/badge/Bash-444f5a?style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/Git-e84545?style=for-the-badge)](https://git-scm.com/)
-[![Geany](https://img.shields.io/badge/Geany-ffc93c?style=for-the-badge)](https://geany.org/)
+[![Zsh](https://img.shields.io/badge/Git-e84545?style=for-the-badge)](https://ohmyzsh.sh/)
+[![Neovim](https://img.shields.io/badge/Geany-ffc93c?style=for-the-badge)](https://neovim.io/)
 
 ### Find me on
 [![Instagram](https://img.shields.io/badge/Instagram-fb929e?style=for-the-badge)](https://instagram.com/akiekano)
